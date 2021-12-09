@@ -5,6 +5,35 @@
 - Identification of terrorist profiles on various social media platform using mobile number or email address.
 
 
+## Sample Data for checking the solution
+
+#### Mobile numbers
+
+- #### 8612280518 
+- #### 7013875243
+- #### 8691028435 
+- #### 8077400229 
+- #### 9130174546 
+- #### 9783265632 
+- #### 7963473112 
+- #### 7152131852
+- #### 7072737062
+- #### 8399896852
+- #### 7148936188
+- #### 9783265632
+- #### 9603697558
+
+
+#### Email addresses
+
+- #### makenzie.senger48@hotmail.com
+- #### vance.orn@gmail.com 
+- #### magali.altenwerth35@hotmail.com
+- #### joe.swift30@hotmail.com
+- #### neil51@hotmail.com
+- #### alexandre96@hotmail.com
+- #### lenny79@hotmail.com
+
 
 
 ## Sections
