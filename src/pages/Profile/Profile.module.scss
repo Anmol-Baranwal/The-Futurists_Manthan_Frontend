@@ -1,0 +1,47 @@
+.profile {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+.coverArea {
+  width: 100%;
+  height: 10rem;
+  background-color: rgb(192, 228, 241);
+}
+.headerSection {
+  width: 100%;
+  position: relative;
+  height: fit-content;
+}
+.profileImage {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  position: absolute;
+  top: 2rem;
+  left: 1rem;
+  border: 5px solid white;
+}
+.information {
+  margin-top: 5.5rem;
+  padding-left: 1rem;
+}
+.posts {
+  width: 90%;
+  margin-left: 1rem;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  padding: 1rem;
+}
+.breakLine {
+  margin: 0.5rem;
+  height: 2px;
+  color: #ccc;
+  background-color: #ccc;
+}
+.postSection {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

@@ -1,0 +1,47 @@
+.container {
+  width: 100%;
+  text-align: start;
+}
+.label {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--dark-gray);
+}
+
+.inputContainer {
+  position: relative;
+  width: 100%;
+  height: fit-content;
+  margin: 3px 0;
+}
+
+.inputContainer input {
+  margin: 0;
+  padding-right: 31px;
+  color: #000;
+}
+.inputContainer::placeholder {
+  color: gray;
+}
+
+.eye {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  cursor: pointer;
+  height: 18px;
+  width: 18px;
+  transform: translateY(-50%);
+}
+
+.eye svg {
+  height: 100%;
+  width: 100%;
+}
+
+.errorMsg {
+  color: rgb(235, 61, 18);
+  font-weight: bold;
+  font-size: 0.875rem;
+  padding-left: 3px;
+}

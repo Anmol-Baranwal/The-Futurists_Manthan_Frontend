@@ -1,0 +1,36 @@
+.error-msg {
+  font-weight: bold;
+  font-size: 0.875rem;
+  text-align: center;
+  margin: auto;
+  color: #ff4500;
+}
+
+.basic-input {
+  outline: none;
+  padding: 10px 8px;
+  width: 100%;
+  border: 1px solid #dfdfdf;
+  color: var(--dark);
+  border-radius: 5px;
+  font-size: 1rem;
+  margin: 3px 0;
+  transition: 100ms;
+}
+
+.basic-input:hover {
+  border: 1px solid lightgray;
+}
+
+.basic-input:focus {
+  border: 1px solid var(--primary);
+}
+
+.basic-input::placeholder {
+  color: lightgray;
+}
+
+.basic-input:disabled {
+  background-color: var(--dark-gray);
+  color: lightgray;
+}

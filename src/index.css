@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+:root {
+  --primary: #3049cf;
+  --secondary: #3b83c4;
+  --light-gray: #cfd1d0;
+  --dark-gray: #3d4949;
+  --dark: #202723;
+}
