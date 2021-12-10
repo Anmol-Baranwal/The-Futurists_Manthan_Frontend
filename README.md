@@ -5,6 +5,11 @@
 - Identification of terrorist profiles on various social media platform using mobile number or email address.
 
 
+## Deployed Solution
+
+https://finder1manthan.web.app/
+
+
 ## Sample Data for checking the solution
 
 #### Mobile numbers
